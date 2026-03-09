@@ -1,0 +1,5 @@
+Contact: mailto:support@yourdomain.com
+Contact: https://flexta.shop/contact.html
+Preferred-Languages: en
+Policy: https://flexta.shop/privacy.html
+Expires: 2026-12-31T23:59:00.000Z
